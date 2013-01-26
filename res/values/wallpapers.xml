@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2012 The Orca Project
+
+     Licensed under the GNU GPLv2 license
+
+     The text of the license can be found in the LICENSE file
+     or at https://www.gnu.org/licenses/gpl-2.0.txt
+-->
+
+<resources>
+    <string-array name="wallpapers" translatable="false">
+        <item>wallpaper_1</item>
+        <item>wallpaper_2</item>
+        <item>wallpaper_3</item>
+        <item>wallpaper_4</item>
+        <item>wallpaper_5</item>
+        <item>wallpaper_6</item>
+        <item>wallpaper_7</item>
+        <item>wallpaper_8</item>
+        <item>wallpaper_9</item>
+        <item>wallpaper_10</item>
+        <item>wallpaper_11</item>
+        <item>wallpaper_12</item>
+        <item>wallpaper_13</item>
+        <item>wallpaper_14</item>
+        <item>wallpaper_15</item>
+        <item>wallpaper_16</item>
+        <item>wallpaper_17</item>
+        <item>wallpaper_18</item>
+        <item>wallpaper_19</item>
+        <item>wallpaper_20</item>
+        <item>wallpaper_21</item>
+    </string-array>
+
+    <string-array name="info" translatable="false">
+        <item>Flower</item>
+        <item>Hex Colors</item>
+        <item>Color Twirl</item>
+        <item>Colors</item>
+        <item>Color Rain</item>
+        <item>Stripes</item>
+        <item>Lined Colors</item>
+        <item>Buttaflies</item>
+        <item>Stones</item>
+        <item>Bora Bora</item>
+        <item>Farmscape</item>
+        <item>City</item>
+        <item>Cubes</item>
+        <item>Shamu</item>
+        <item>Pier</item>
+        <item>Pear</item>
+        <item>Woods</item>
+        <item>London</item>
+        <item>Chic</item>
+        <item>Clouds</item>
+        <item>Night</item>
+        <item>Autumn</item>
+    </string-array>
+</resources>
